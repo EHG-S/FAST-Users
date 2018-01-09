@@ -31,5 +31,5 @@ ForEach ($User in $Users)
    
 }
 
-"n"
+"`n"
 write-host "Script is done"

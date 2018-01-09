@@ -26,7 +26,7 @@ ForEach ($User in $Users)
     $uac = $user.'userAccountControl'
     $objClass = $user.'ObjectClass'
     
-	New-ADUser -Name "$Name" -SamAccountName $SAM -UserPrincipalName $UPN -department $department -AccountPassword (ConvertTo-SecureString $Password -AsPlainText -Force) -Enabled $true -ChangePasswordAtLogon $true –PasswordNeverExpires $flase            
+	New-ADUser -Name "$Name" -SamAccountName $SAM -UserPrincipalName $UPN -department $department -AccountPassword (ConvertTo-SecureString $Password -AsPlainText -Force) -Enabled $true -ChangePasswordAtLogon $true –PasswordNeverExpires $true            
     
    
 }

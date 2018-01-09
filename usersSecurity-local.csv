@@ -1,0 +1,16 @@
+Name,sAMAccountName,userPrincipalName,telephoneNumber,department,userAccountControl,objectClass
+Slade Goodman,slade,slade@silnet.be,555-1239,inkoop & bevoorrading,512,user
+Cole Salazar,cole,cole@silnet.be,555-1239,inkoop & bevoorrading,512,user
+Giacomo West,giacomo,Giacomo@silnet.be,555-1230,inkoop & bevoorrading,512,user
+Jonas King,jonas,jonas@silnet.be,555-1231,inkoop & bevoorrading,512,user
+Lee Edwards,lee,lee@silnet.be,555-1232,inkoop & bevoorrading,512,user
+Paki Schmidt,paki,paki@silnet.be,555-1233,inkoop & bevoorrading,512,user
+Abigail Clemons,abigail,abigail@silnet.be,555-4321,inkoop & bevoorrading,512,user
+Laura Madden,laura,laura@silnet.be,555-4322,inkoop & bevoorrading,512,user
+Jelani Acevedo,jelani,jelani@silnet.be,555-4324,inkoop & bevoorrading,512,user
+Rashad Stein,rashad,rashad@silnet.be,555-4325,inkoop & bevoorrading,512,user
+Oleg Orr,oleg,oleg@silnet.be,555-4326,architectenafdeling,512,user
+Eden Gallagher,eden,eden@silnet.be,555-2234,architectenafdeling,512,user
+Holly Webster,holly,holly@silnet.be,555-2236,architectenafdeling,512,user
+Ocean Mckay,ocean,ocean@silnet.be,555-2239,architectenafdeling,512,user
+Lucius Benjamin,lucius,lucius@silnet.be,555-2239,Boekhouding,512,user
